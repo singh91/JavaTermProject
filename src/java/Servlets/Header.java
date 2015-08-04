@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Indunil
+ * @author Balwant Singh - c0655613
  */
 public class Header extends HttpServlet {
 

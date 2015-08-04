@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Indunil
+ * @author Balwant Singh - c0655613
  */
 @WebServlet(name = "RecoverPassword", urlPatterns = {"/RecoverPassword"})
 public class RecoverPassword extends HttpServlet {
