@@ -22,7 +22,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Indunil
+ * @author Balwant Singh - c0655613
  */
 public class ChkCart extends HttpServlet {
 
