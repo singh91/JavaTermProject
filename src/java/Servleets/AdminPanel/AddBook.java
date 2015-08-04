@@ -25,7 +25,7 @@ import javax.servlet.http.Part;
 
 /**
  *
- * @author Chami
+ * @author Balwant Singh - c0655613
  */
 @MultipartConfig(maxFileSize = 16177215)    // upload file's size up to 16MB
 @WebServlet(name = "AddBook", urlPatterns = {"/AddBook"})
