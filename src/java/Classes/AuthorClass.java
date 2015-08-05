@@ -12,8 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class AuthorClass {
@@ -24,14 +23,14 @@ public class AuthorClass {
     private String a_Desc;    
     private PreparedStatement pstmt;
 
-    /**
+    /*
      * @return the a_ID
      */
     public int getA_ID() {
         return a_ID;
     }
 
-    /**
+    /*
      * @param a_ID the a_ID to set
      */
     public void setA_ID(int a_ID) {
