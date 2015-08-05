@@ -1,5 +1,5 @@
 <%-- 
-    Document   : ShowMessageScript
+    Document   : Show Message Script
     Created on : July 22, 2015, 10:56:19 AM
     Author     : Balwant Singh
 --%>

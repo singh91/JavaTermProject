@@ -1,5 +1,5 @@
 <%-- 
-    Document   : SignUp
+    Document   : Register
     Created on : August 03, 2015, 6:05:50 PM
     Author     : Balwant Singh 
 --%>
