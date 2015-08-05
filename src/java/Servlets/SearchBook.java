@@ -19,8 +19,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
+/*
  * @author Balwant Singh - c0655613
  */
 public class SearchBook extends HttpServlet {
