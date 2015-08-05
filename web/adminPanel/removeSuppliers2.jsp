@@ -1,5 +1,5 @@
 <%-- 
-    Document   : removeSuppliers2
+    Document   : Remove Suppliers
     Created on : July 27, 2015, 2:53:44 PM
     Author     : Balwant Singh
 --%>
