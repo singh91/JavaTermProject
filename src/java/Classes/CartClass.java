@@ -11,8 +11,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class CartClass {

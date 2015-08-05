@@ -15,7 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.stream.ImageOutputStream;
 
-/**
+/*
  *
  * @author Balwant c0655613
  */

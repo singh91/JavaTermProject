@@ -12,8 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class DbClass {
