@@ -44,7 +44,7 @@
                         </button>
                         <a class="navbar-brand" style="font-family:calibri; color:Black;" href="Home.jsp">
                             <span class="glyphicon glyphicon-home"></span>
-                            Orchid Store
+                            Online Book Store
                         </a>
                     </div>
 
