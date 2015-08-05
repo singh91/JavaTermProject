@@ -21,8 +21,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import javax.servlet.http.Part;
 
-/**
- *
+/*
  * @author Balwant Singh - c0655613
  */
 @WebServlet("/uploadServlet")
