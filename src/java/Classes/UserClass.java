@@ -13,8 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import javax.script.*;
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class UserClass {

@@ -5,8 +5,7 @@
  */
 package Classes;
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class SupplierClass {

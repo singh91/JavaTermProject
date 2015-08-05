@@ -9,8 +9,7 @@ import com.mysql.jdbc.Statement;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-/**
- *
+/*
  * @author Balwant c0655613
  */
 public class SaleClass {
