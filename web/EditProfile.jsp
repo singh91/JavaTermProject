@@ -1,5 +1,5 @@
 <%-- 
-    Document   : EditProfile
+    Document   : Edit Profile
     Created on : July 29, 2015, 12:36:10 PM
     Author     : Balwant Singh
 --%>
