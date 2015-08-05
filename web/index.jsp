@@ -74,7 +74,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Book Store Online Marketplace 2015</p>
+                    <p class="text-muted">Copyright &copy; Online Book Store 2015</p>
                 </div>
             </div>
         </div>
