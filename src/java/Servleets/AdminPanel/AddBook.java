@@ -23,8 +23,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 
-/**
- *
+/*
  * @author Balwant Singh - c0655613
  */
 @MultipartConfig(maxFileSize = 16177215)    // upload file's size up to 16MB
