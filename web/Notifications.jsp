@@ -1,5 +1,5 @@
 <%-- 
-    Document   : Notifications
+    Document   : Get Notifications
     Created on : August 01, 2015, 6:05:50 PM
     Author     : Balwant Singh 
 --%>
