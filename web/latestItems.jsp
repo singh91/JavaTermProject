@@ -1,5 +1,5 @@
 <%-- 
-    Document   : latestItems
+    Document   : Latest Items
     Created on : July 25, 2015, 11:31:10 PM
     Author     : Balwant Singh
 --%>
