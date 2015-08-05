@@ -28,7 +28,7 @@
                     <img src="Images/Page icons/BookIcon.png" class="img-responsive" width="100%"alt="Responsive image">
                 </div>
                 <div class="col-md-11">
-                    <font color=#FF7519><h1><strong>Orchid Book Store</strong><small>&nbsp; Admin Panel</small></h1></font>
+                    <font color=#FF7519><h1><strong>Book Store</strong><small>&nbsp; Admin Panel</small></h1></font>
                 </div>
             </div>
             <div class="row">
